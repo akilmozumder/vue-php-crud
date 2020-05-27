@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 900px;
+    margin: auto;
+    margin-top: 40px;
+}
+.fleft{
+    float: left;
+}
+.fright{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+h1{
+    font-size: 22px;
+}
+.addNew{
+    padding: 2px 9px;
+}
